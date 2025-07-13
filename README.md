@@ -10,7 +10,7 @@
 
 - 🎯 Pursuing Master's at **Berliner Hochschule für Technik**
 - 💼 Former System Engineer with expertise in IT infrastructure, networking, and automation
-- 🧠 Interests: **Signal Processing**, **Linux Server Management**, **IT Automation**, **Cybersecurity**
+- 🧠 Interests: **IT Support**, **Server Management**, **IT Automation**, **ML,LLM**
 - 🌍 Languages: English, Bengali, and learning **German (A2)**
 - 🚀 Always open to new opportunities, collaboration, and continuous learning
 
