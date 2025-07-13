@@ -46,19 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-####<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Akmam&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akmam&layout=compact&theme=default" height="150">
-###</p>
-
----
-
 ## 📬 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:akmam.syl@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/md-akmam-839918300/)  
+- 📧 Email: [akmam.syl@gamil.com](mailto:akmam.syl@gmail.com)  
+- 💼 LinkedIn: [MD AKMAM](https://www.linkedin.com/in/md-akmam-839918300/)  
 
 ---
 
