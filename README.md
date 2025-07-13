@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm MD Akmam</h1>
 
-<!--
-**Md-Akmam/Md-Akmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 M.Eng. in Information and Communication Engineering &nbsp;|&nbsp; 💻 IT Support & Networking &nbsp;|&nbsp; 🌍 Berlin, Germany  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+
+- 🎯 Pursuing Master's at **Berliner Hochschule für Technik**
+- 💼 Former System Engineer with expertise in IT infrastructure, networking, and automation
+- 🧠 Interests: **Signal Processing**, **Linux Server Management**, **IT Automation**, **Cybersecurity**
+- 🌍 Languages: English, Bengali, and learning **German (A2)**
+- 🚀 Always open to new opportunities, collaboration, and continuous learning
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category         | Skills                                                   |
+|------------------|---------------------------------------------------------|
+| **Languages**    | Python, Bash, PowerShell, C                             |
+| **Networking**   | VLAN, VPN, DNS, TCP/IP, Wireshark                       |
+| **DevOps & Tools** | Linux Server, Ubuntu, Ansible, Azure Intune           |
+| **Scripting**    | Bash Automation, PowerShell (`.ps1`), Ansible Playbooks |
+| **Others**       | Signal Processing, Image Quality Evaluation, Git        |
+
+---
+
+## 📌 Featured Projects
+
+### 📷 [Image Quality Evaluation – Planet Labs](https://github.com/Md-Akmam/image-quality-checker)
+*Role: Working Student*  
+- Automated satellite image analysis using Python & OpenCV  
+- Developed SSIM, histogram spread, and noise metric modules  
+- Improved QC efficiency for remote sensing workflows
+
+### 🌐 [Linux Automation Toolkit (Ansible)](https://github.com/Md-Akmam/linux-ansible-deploy)
+- Automated VPN, DNS, and network services with Ansible  
+- Built robust YAML playbooks for system hardening and deployment
+
+### 🧰 [IT Support Scripts Collection](https://github.com/Md-Akmam/it-support-tools)
+- Bash and PowerShell scripts for backup, health checks, device registration  
+- Designed with future Intune/MDM integration in mind
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Akmam&show_icons=true&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akmam&layout=compact&theme=default" height="150">
+</p>
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [your.email@example.com](mailto:akmam.syl@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/md-akmam-839918300/)  
+
+---
+
+⭐️ **Thank you for visiting!** Feel free to check out my repositories and connect with me!
+````
